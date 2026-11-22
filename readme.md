@@ -1,3 +1,2 @@
-openshift 4.21
-cluster
-deployment
+# Openshift-4.22.x
+Openshift Cluster Deployment 4.22.x POC 
